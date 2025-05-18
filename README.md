@@ -60,4 +60,4 @@ Dự án đã chứng minh khả năng ứng dụng YOLOv8 trong xây dựng h�
                 person        433       1748      0.773      0.671      0.765      0.416
                  truck        116        126      0.961      0.775      0.897      0.747
 *  <img src="val_batch1_labels.jpg" alt="DEMO" width="600"/>
-* 📹 [Xem video giám sát]([videogiamsat.mp4](https://drive.google.com/file/d/1IWLQiKgj6sofnJvudbJS_6ATldWtbn8A/view?usp=sharing))
+* 📹 [Xem video giám sát]([https://drive.google.com/file/d/1IWLQiKgj6sofnJvudbJS_6ATldWtbn8A/view?usp=sharing])
