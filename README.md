@@ -59,9 +59,9 @@ Chạy [Notebook Colab ](Hethonggiamsatxe.ipynb) (Hethonggiamsatxe.ipynb)
              motorbike        318        846      0.813      0.616      0.766      0.512
                 person        433       1748      0.773      0.671      0.765      0.416
                  truck        116        126      0.961      0.775      0.897      0.747
-*  <img src="confusion_matrix_normalized.png" alt="DEMO" width="600"/>
+*  <img src="confusion_matrix_normalized.png" alt="DEMO" width="1200"/>
 Sau đó chạy 
 * Chạy main.py
 * lệnh streamlit run main.py
-* <img src="Screenshot%202025-05-18%20121724.png" alt="DEMO" width="600"/>
+* <img src="Screenshot%202025-05-18%20121724.png" alt="DEMO" width="1200"/>
 * 📹 [Xem video giám sát](https://drive.google.com/file/d/1IWLQiKgj6sofnJvudbJS_6ATldWtbn8A/view?usp=sharing)
