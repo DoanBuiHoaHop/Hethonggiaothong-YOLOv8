@@ -59,5 +59,5 @@ Dự án đã chứng minh khả năng ứng dụng YOLOv8 trong xây dựng h�
              motorbike        318        846      0.813      0.616      0.766      0.512
                 person        433       1748      0.773      0.671      0.765      0.416
                  truck        116        126      0.961      0.775      0.897      0.747
-*  <img src="val_batch0_labels.jpg" alt="DEMO" width="600"/>
-* 📹 [Xem video giám sát](https://github.com/DoanBuiHoaHop/Hethonggiaothong-YOLOv8/blob/main/videogiamsat.mp4)
+*  <img src="val_batch1_labels.jpg" alt="DEMO" width="600"/>
+* 📹 [Xem video giám sát](videogiamsat.mp4)
