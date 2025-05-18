@@ -49,7 +49,7 @@ Dự án đã chứng minh khả năng ứng dụng YOLOv8 trong xây dựng h�
 ### ✅ Kết luận
 * Dự án là minh chứng cho việc ứng dụng thành công mô hình học sâu **YOLOv8** vào một bài toán thực tế, với tiềm năng triển khai thực tiễn cao. Các kỹ năng về **deep learning, computer vision, xử lý video, deployment** đều được thể hiện rõ ràng.
 ### 🔗 Liên kết
-* [Notebook Colab ](Hethonggiamsatxe.ipynb) (Hethonggiamsatxe.ipynb)
+Chạy [Notebook Colab ](Hethonggiamsatxe.ipynb) (Hethonggiamsatxe.ipynb)
 ### 📷 Demo kết quả
                   Class     Images  Instances      Box(P        R       mAP50   mAP50-95)
                   all         705        7503     0.862      0.783       0.87      0.651
@@ -59,5 +59,9 @@ Dự án đã chứng minh khả năng ứng dụng YOLOv8 trong xây dựng h�
              motorbike        318        846      0.813      0.616      0.766      0.512
                 person        433       1748      0.773      0.671      0.765      0.416
                  truck        116        126      0.961      0.775      0.897      0.747
-*  <img src="val_batch1_labels.jpg" alt="DEMO" width="600"/>
+*  <img src="confusion_matrix_normalized.png" alt="DEMO" width="600"/>
+Sau đó chạy 
+* Chạy main.py
+* lệnh streamlit run main.py
+* <img src="Screenshot%202025-05-18%20121724.png" alt="DEMO" width="600"/>
 * 📹 [Xem video giám sát](https://drive.google.com/file/d/1IWLQiKgj6sofnJvudbJS_6ATldWtbn8A/view?usp=sharing)
