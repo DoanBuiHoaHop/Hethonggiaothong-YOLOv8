@@ -62,6 +62,6 @@ Chạy [Notebook Colab ](Hethonggiamsatxe.ipynb) (Hethonggiamsatxe.ipynb)
 *  <img src="confusion_matrix_normalized.png" alt="DEMO" width="1200"/>
 Sau đó chạy 
 * Chạy main.py
-* lệnh streamlit run main.py
+* Lệnh streamlit run main.py
 * <img src="Screenshot%202025-05-18%20121724.png" alt="DEMO" width="1200"/>
 * 📹 [Xem video giám sát](https://drive.google.com/file/d/1IWLQiKgj6sofnJvudbJS_6ATldWtbn8A/view?usp=sharing)
