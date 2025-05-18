@@ -38,9 +38,9 @@
 * Custom dataset training
 * Visualization & evaluation (mAP, precision)
 * Sử dụng Google Colab + Drive linh hoạt
-✅ Kết luận
-Dự án đã chứng minh khả năng ứng dụng YOLOv8 trong xây dựng hệ thống giám sát giao thông thông minh, giúp tự động phát hiện và phân loại các đối tượng trên đường phố với độ chính xác cao.
-+ Qua dự án, thực hiện đã phát triển được kỹ năng về:
+* ✅ Kết luận
+* Dự án đã chứng minh khả năng ứng dụng YOLOv8 trong xây dựng hệ thống giám sát giao thông thông minh, giúp tự động phát hiện và phân loại các đối tượng trên đường phố với độ chính xác cao.
+* + Qua dự án, thực hiện đã phát triển được kỹ năng về:
 * Xử lý ảnh và video thực tế với OpenCV.
 * Huấn luyện và tối ưu mô hình deep learning trên môi trường GPU/TPU.
 * Đánh giá hiệu suất mô hình với các chỉ số chuẩn (mAP, precision, recall).
