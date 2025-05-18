@@ -23,7 +23,7 @@
 ## 2. Xây dựng bộ dữ liệu 6,130 Files ('bicycle1 , bus, car , motorbike,  person, truck' ) 
 ### 2.1. Thu thập dữ liệu
 ## 📊 Sơ đồ hệ thống
-* <img src="sơ%20đồ%20HETHONGGIAMSAT.png" alt="Sơ đồ hệ thống giám sát" width="400"/>
+* <img src="sodo.png" alt="Sơ đồ hệ thống giám sát" width="400"/>
 ### 🔁 Các bước thực hiện
 * Thiết lập môi trường**: kết nối Drive, bật TPU.
 * Cài đặt thư viện**: `ultralytics`, `opencv-python`,...
